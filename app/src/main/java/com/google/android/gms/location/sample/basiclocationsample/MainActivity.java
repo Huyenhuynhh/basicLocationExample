@@ -146,7 +146,7 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.LENGTH_INDEFINITE)
                 .setAction(getString(actionStringId), listener).show();
     }
-
+//i can't find the bug. Where is it??? AHHHHHHHHHHHHHHHHHHH
     /**
      * Return the current state of the permissions needed.
      */
